@@ -17,3 +17,5 @@ Chaque fichier contient les colonnes suivantes:
 * Dans quelle ville a-t-on le plus vendu de produits ?
 * A quelle heure devons-nous passer de la publicité pour augmenter nos ventes ?
 * Quel produit a-t-on le plus vendu et pourquoi ?
+
+Pour consulter l'appliaction aller sur le [lien](https://projet-ventes-florent.streamlit.app/)
