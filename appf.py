@@ -99,7 +99,7 @@ with middle_column:
         # Fermeture de la div
         st.markdown('</div>', unsafe_allow_html=True)
 with right_column:
-    st.subheader("Average Sales Per Transaction:")
+    st.subheader("Ventes moyennes par transaction :")
     st.subheader(f"US $ {average_sale_by_transaction}")
 with st.expander("Data"):
         st.write(df_selection)
