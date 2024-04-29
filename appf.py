@@ -52,7 +52,7 @@ if df_selection.empty:
     st.stop() # This will halt the app from further execution.
 
 # ---- MAINPAGE ----
-st.title(":bar_chart: Sales Dashboard")
+st.title(":bar_chart: Raport des ventes")
 st.markdown("##")
 
 # TOP KPI's
