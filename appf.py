@@ -76,7 +76,7 @@ def mcommon(k):
 
 left_column, middle_column, right_column = st.columns(3)
 with left_column:
-    st.subheader("Total Sales:")
+    st.subheader("Vente totale:")
     st.subheader(f"US $ {total_sales:,}")
 with middle_column:
     with st.expander("**Les k produits les plus achetés ensemble**",expanded=False):
